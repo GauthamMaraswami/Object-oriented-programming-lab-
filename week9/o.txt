@@ -1,0 +1,18 @@
+Enter number of processes
+Enter AT and BT
+Scheduling method: 
+1. FCFS 
+2. SJF 
+3. Round Robin 
+Enter time quantum
+
+0 IDLE 1 (P1) 5 (P2) 8 (P3) 9 (P4) 11 (P5) 16 
+
+P No	AT	BT	CT	TAT	WT
+1	1	4	5	4	0
+2	2	3	8	6	3
+3	3	1	9	6	5
+4	4	2	11	7	5
+5	5	5	16	11	6
+Average WT: 3.800000
+Average TAT: 6.800000

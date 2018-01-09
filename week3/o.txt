@@ -1,0 +1,32 @@
+enter the size
+
+insert succcessfulheapsortHeap sort: 1
+12
+24
+29
+31
+quicksort1
+12
+24
+29
+31
+mergesort1
+12
+24
+29
+31
+insertion sort1
+12
+24
+29
+31
+selection sort1
+12
+24
+29
+31
+bubblesort1
+12
+24
+29
+31
